@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = christine.parry9@gmail.com
+	name = Christine Parry
